@@ -7,7 +7,7 @@ terraform {
     }
   }
 }
-#STEP2: DEFINE THE REGION (N. Virginia)
+#STEP2: DEFINE THE REGION (Mumabi)
 provider "aws" {
   region = "ap-south-1"
 }
