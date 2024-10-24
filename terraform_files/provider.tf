@@ -7,7 +7,7 @@ terraform {
     }
   }
 }
-#STEP2: DEFINE THE REGION (Mumabi)
+#STEP2: DEFINE THE REGION (Mumbai)
 provider "aws" {
   region = "ap-south-1"
 }
